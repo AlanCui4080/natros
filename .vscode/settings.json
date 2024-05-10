@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "limits.h": "c",
-        "stdint.h": "c",
-        "scheduler.h": "c"
-    }
-}
